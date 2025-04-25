@@ -41,3 +41,14 @@ int main() {
 
     return 0;
 }
+
+
+
+/* 
+경민 : 
+if (!input.empty() && Number(input)) {
+        studentCount = std::stoi(input);  // 문자열을 정수로 변환하여 studentCount에 저장
+    }
+  이거랑
+    getline
+   이거는 이해를 잘 못했습니다.(= gpt 썼다는 뜻); */
